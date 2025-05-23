@@ -1,0 +1,30 @@
+
+body {
+    background-color: #121212;
+    color: #f1f1f1;
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+header {
+    margin-bottom: 30px;
+}
+.upload-section {
+    margin-top: 40px;
+}
+input[type="file"] {
+    display: none;
+}
+.custom-file-upload {
+    background-color: #1f1f1f;
+    border: 1px solid #444;
+    padding: 10px 20px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 5px;
+}
+#analysis-result {
+    margin-top: 20px;
+    font-size: 1.1em;
+    color: #80cbc4;
+}
