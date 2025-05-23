@@ -1,1 +1,0 @@
-console.log('GPT Trader Dashboard Loaded');
